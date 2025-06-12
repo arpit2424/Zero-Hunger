@@ -1,0 +1,40 @@
+/* Adjusting margin and text of content */
+
+.content-page {
+    margin-top: 100px;
+    text-align: center;
+    width: 90%;
+    border-radius: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    height: 100%;
+    border: 1px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+    cursor: pointer;
+    padding: 50px 50px 50px 50px;
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+
+/* Adjusting size of banner image */
+
+.banner-img {
+    margin-top: 40px;
+    width: 100%;
+    height: 565px;
+}
+
+
+/* Setting text to centere in h3 */
+
+h3 {
+    text-align: center;
+}
+
+.main-banner {
+    height: 470px;
+}
